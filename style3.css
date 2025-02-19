@@ -1,0 +1,95 @@
+.start{
+    position: absolute;
+    top: 10px;
+    background-color: #6571A7;
+    width: 220px; 
+    height: 50px;  
+    color: white;
+    
+    
+}
+
+
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    background-color: grey;
+    margin: 0;
+}
+   
+img{
+    position: absolute;
+    width: 370px;
+    height: 200px;
+    left: 20px;
+    bottom: 150px;
+    
+}
+.botton{
+    background-color: #94A2FF;
+}
+.button1{
+    background-color: #b3c6ff;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    border-radius: 5px;   
+    position: absolute;
+    bottom: 30px;
+    right: 15px;
+}
+
+.button{
+    background-color: #b3c6ff;
+    text-align: center;
+    border: none;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    border-radius: 5px;   
+    position: absolute;
+    bottom: 30px;
+    left: 15px;
+}
+
+.Information{
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 15px;
+}
+
+.info-title{
+    position: absolute;
+    right: 60px;
+    top: 280px;
+}
+.start img{
+    position: absolute;
+    top: 10px;
+    right: 0%;
+    left: 550px;
+    width: 130px;
+    height: 140px;
+    border-radius: 30%;
+}
+.icon{
+    position: absolute;
+    top: 4px;
+    left: 2px;
+    width: 50px;
+    height: 50px;
+}
+
+   
